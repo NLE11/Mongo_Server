@@ -1,0 +1,2 @@
+(this.webpackJsonptodolist=this.webpackJsonptodolist||[]).push([[3],{111:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return o}));var s=n(0),u=n(7),i=n(1);function o(){var t=Object(s.useContext)(u.a),e=t.state,n=t.dispatch;return Object(i.jsxs)("form",{onSubmit:function(t){t.preventDefault(),n({type:"LOGOUT"}),n({type:"CLEAR_TASKS"})},children:["Logged in as: ",Object(i.jsx)("b",{children:e.user.username}),Object(i.jsx)("input",{type:"submit",value:"Logout"})]})}}}]);
+//# sourceMappingURL=3.c386448f.chunk.js.map
